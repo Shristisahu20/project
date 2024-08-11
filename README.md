@@ -1,2 +1,2 @@
 # project
-my project is a website of replica
+my project is a replica of a website.
